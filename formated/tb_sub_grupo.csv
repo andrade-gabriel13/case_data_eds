@@ -1,0 +1,60 @@
+CO_GRUPO,CO_SUB_GRUPO,NO_SUB_GRUPO,DT_COMPETENCIA
+03,01,Consultas / Atendimentos / Acompanhamentos,202306
+08,01,Ações relacionadas ao estabelecimento,202306
+02,01,Coleta de material,202306
+01,01,Ações coletivas/individuais em saúde,202306
+07,01,"Órteses, próteses e materiais especiais não relacionados ao ato cirúrgico",202306
+06,01,Medicamentos de dispensação excepcional,202306
+05,01,"Coleta e exames para fins de doação de orgãos, tecidos e células e de transplante",202306
+04,01,"Pequenas cirurgias e cirurgias de pele, tecido subcutâneo e mucosa",202306
+02,02,Diagnóstico em laboratório clínico,202306
+01,02,Vigilância em saúde,202306
+08,02,Ações relacionadas ao atendimento,202306
+07,02,"Órteses, próteses e materiais especiais relacionados ao ato cirúrgico",202306
+06,02,Medicamentos estratégicos,202306
+05,02,Avaliação de morte encefálica,202306
+04,02,Cirurgia de glândulas endócrinas,202306
+03,02,Fisioterapia,202306
+02,03,Diagnóstico por anatomia patológica e citopatologia,202306
+08,03,Autorização / regulação,202306
+06,03,Medicamentos de âmbito hospitalar e urgência,202306
+04,03,Cirurgia do sistema nervoso central e periférico,202306
+03,03,Tratamentos clínicos (outras especialidades),202306
+05,03,Ações relacionadas à doação de orgãos e tecidos para transplante,202306
+05,04,Processamento de tecidos para transplante,202306
+04,04,"Cirurgia das vias aéreas superiores, da face, da cabeça e do pescoço",202306
+02,04,Diagnóstico por radiologia,202306
+06,04,Componente especializado da assistência farmacêutica,202306
+03,04,Tratamento em oncologia,202306
+03,05,Tratamento em nefrologia,202306
+04,05,Cirurgia do aparelho da visão,202306
+02,05,Diagnóstico por ultrasonografia,202306
+05,05,"Transplante de orgãos, tecidos e células",202306
+05,06,Acompanhamento e intercorrências no pré e pós-transplante,202306
+02,06,Diagnóstico por tomografia,202306
+04,06,Cirurgia do aparelho circulatório,202306
+03,06,Hemoterapia,202306
+03,07,Tratamentos odontológicos,202306
+02,07,Diagnóstico por ressonância magnética,202306
+04,07,"Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal",202306
+02,08,Diagnóstico por medicina nuclear in vivo,202306
+03,08,"Tratamento de lesões, envenenamentos e outros, decorrentes de causas externas",202306
+04,08,Cirurgia do sistema osteomuscular,202306
+04,09,Cirurgia do aparelho geniturinário,202306
+03,09,Terapias especializadas,202306
+02,09,Diagnóstico por endoscopia,202306
+04,10,Cirurgia de mama,202306
+03,10,Parto e nascimento,202306
+02,10,Diagnóstico por radiologia intervencionista,202306
+04,11,Cirurgia obstétrica,202306
+02,11,Métodos diagnósticos em especialidades,202306
+04,12,Cirurgia torácica,202306
+02,12,Diagnóstico e procedimentos especiais em hemoterapia,202306
+02,13,Diagnóstico em vigilância epidemiológica e ambiental,202306
+04,13,Cirurgia reparadora,202306
+04,14,Bucomaxilofacial,202306
+02,14,Diagnóstico por teste rápido,202306
+04,15,Outras cirurgias,202306
+04,16,Cirurgia em oncologia,202306
+04,17,Anestesiologia,202306
+04,18,Cirurgia em nefrologia,202306

@@ -1,0 +1,396 @@
+CO_GRUPO,CO_SUB_GRUPO,CO_FORMA_ORGANIZACAO,NO_FORMA_ORGANIZACAO,DT_COMPETENCIA
+01,01,01,Educação em saúde,202306
+08,03,01,Deslocamento/Ajuda de custo,202306
+02,01,01,Coleta de material por meio de punção/biópsia,202306
+02,02,01,Exames bioquimicos,202306
+02,03,01,Exames citopatológicos,202306
+02,04,01,Exames radiológicos da cabeça e pescoço,202306
+02,05,01,Ultra-sonografias do sistema circulatório (qualquer região anatômica),202306
+02,06,01,"Tomografia da cabeça, pescoço e coluna vertebral",202306
+02,07,01,"RM da cabeça, pescoço e coluna vertebral",202306
+02,08,01,Aparelho cardiovascular,202306
+02,09,01,Aparelho digestivo,202306
+02,10,01,Exames radiológicos de vasos sangüíneos e linfáticos,202306
+02,11,01,Diagnóstico em angiologia,202306
+02,12,01,Exames do doador/receptor,202306
+02,13,01,Exames relacionados a doenças e agravos de notificação compulsória,202306
+02,14,01,Teste realizado fora da estrutura de laboratório,202306
+03,01,01,Consultas médicas/outros profissionais  de nivel superior,202306
+03,02,01,"Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas",202306
+03,03,01,Tratamento de doenças infecciosas e parasitárias,202306
+03,04,01,Radioterapia,202306
+03,05,01,Tratamento dialítico,202306
+03,06,01,Procedimentos destinados a obtenção do sangue para fins de assistência hemoterapica,202306
+03,07,01,Dentística,202306
+03,08,01,Traumatismos,202306
+03,09,01,Terapia nutricional,202306
+03,10,01,Parto e nascimento,202306
+04,01,01,Pequenas cirurgias,202306
+04,02,01,Cirurgia de tireóide e paratireóide,202306
+04,03,01,Trauma e anomalias do desenvolvimento,202306
+04,04,01,Cirurgia das vias aéreas superiores e do pescoço,202306
+04,05,01,Palpebras e vias lacrimais,202306
+04,06,01,Cirurgia cardiovascular,202306
+04,07,01,"Esôfago, estômago e duodeno",202306
+04,08,01,Cintura escapular,202306
+04,09,01,"Rim, ureter e bexiga",202306
+04,10,01,Mama,202306
+04,11,01,Parto,202306
+04,12,01,Traqueia e brônquios,202306
+04,13,01,Tratamento de queimados,202306
+04,14,01,Buco-maxilo-facial,202306
+04,15,01,Múltiplas,202306
+04,16,01,Urologia,202306
+04,17,01,Anestesias,202306
+04,18,01,Acessos para dialise,202306
+05,01,01,Coleta e exames para identificação de doador de células-tronco hematopoéticas (busca nacional),202306
+05,02,01,Avaliação clínica de morte encefálica,202306
+05,03,01,Ações relacionadas a doação de orgãos e tecidos para transpalnte,202306
+05,04,01,Processamento de córnea/esclera,202306
+05,05,01,Transplante de tecidos e células,202306
+05,06,01,Acompanhamento de paciente no pré e pós-transplante,202306
+06,01,01,Agentes anticitocinas,202306
+06,02,01,Procoagulantes em coagulopatias hereditárias,202306
+06,03,01,Antiinflamatórios,202306
+06,04,01,Acido Aminosalicilico e Similares,202306
+07,01,01,OPM auxiliares da locomoção,202306
+07,02,01,OPM em neurocirurgia,202306
+08,01,01,Incentivos,202306
+08,02,01,Diárias,202306
+01,02,01,Vigilancia sanitária,202306
+01,01,02,Saúde bucal,202306
+08,02,02,Outras ações,202306
+02,01,02,Outras formas de coleta de material,202306
+02,02,02,Exames hematológicos e hemostasia,202306
+02,03,02,Exames anatomopatológicos,202306
+02,04,02,Exames radiológicos da coluna vertebral,202306
+02,05,02,Ultra-sonografias dos demais sistemas,202306
+02,06,02,Tomografia do torax e membros superiores,202306
+02,07,02,RM do torax e membros superiores,202306
+02,08,02,Aparelho digestivo,202306
+02,09,02,Aparelho urinário,202306
+02,10,02,Vias biliares,202306
+02,11,02,Diagnóstico em cardiologia,202306
+02,12,02,Procedimentos especiais em hemoterápica,202306
+02,13,02,Exames relacionados ao meio ambiente,202306
+03,01,02,Atendimento/Acompanhamento em saúde do trabalhador,202306
+03,02,02,Assistência fisioterapêutica em alterações oncológicas,202306
+03,03,02,"Tratamento de doenças do sangue, orgãos hematopoéticos e alguns transtornos imunitários",202306
+03,04,02,Quimioterapia paliativa - adulto,202306
+03,05,02,Tratamento em nefrologia em geral,202306
+03,06,02,Medicina transfusional,202306
+03,07,02,Endodontia,202306
+03,08,02,Intoxicações e envenenamentos,202306
+03,09,02,Terapias em doenças alérgicas,202306
+04,01,02,"Cirurgias de pele, tecido subcutâneo e mucosa",202306
+04,02,02,Cirurgia da suprarrenal,202306
+04,03,02,Coluna e nervos periféricos,202306
+04,04,02,Cirurgia da face e do sistema estomatognático,202306
+04,05,02,Músculos oculomotores,202306
+04,06,02,Cirurgia vascular,202306
+04,07,02,"Intestinos , reto e anus",202306
+04,08,02,Membros superiores,202306
+04,09,02,Uretra,202306
+04,11,02,Outras cirurgias relacionadas com o estado gestacional,202306
+04,12,02,Mediastino,202306
+04,13,02,Reparadora em oncológica,202306
+04,14,02,Cirurgia oral,202306
+04,15,02,Sequenciais,202306
+04,16,02,Sistema linfático,202306
+04,18,02,Intervençõess cirúrgicas em acessos para diálise,202306
+05,01,02,Exames de histocompatibilidade para identificação de receptor de células-tronco hematopoéticas,202306
+05,03,02,Cirurgias para transplante - doador vivo,202306
+05,04,02,Processamento de tecido ósteo-fascio-condro-ligamentoso humano,202306
+05,05,02,Transplante de orgãos,202306
+05,06,02,Intercorrência pós transplante,202306
+06,01,02,Antagonista do glutamato,202306
+06,03,02,Imunossupressores,202306
+06,04,02,Agentes Quelantes de Ferro,202306
+07,01,02,OPM ortopédicas,202306
+07,02,02,OPM em cirurgia buco-maxilo-facial,202306
+01,02,02,Vigilância em saúde do trabalhador,202306
+01,01,03,Visita domiciliar,202306
+07,02,03,OPM em ortopedia,202306
+02,02,03,Exames sorológicos e imunológicos,202306
+02,04,03,Exames radiológicos do torax e mediastino,202306
+02,06,03,"Tomografia do abdomen, pelve e membros inferiores",202306
+02,07,03,"RM do abdomen, pelve e membros inferiores",202306
+02,08,03,Aparelho endócrino,202306
+02,09,03,Aparelho ginecológico,202306
+02,11,03,Diagnóstico cinético funcional,202306
+03,01,03,Atendimento pré-hospitalar de urgência,202306
+03,02,03,Assistência fisioterapêutica em oftalmologia,202306
+03,03,03,"Tratamento de doenças endocrinas, metabólicas e nutricionais",202306
+03,04,03,Quimioterapia para controle temporário de doença - adulto,202306
+03,07,03,Periodontia clínica,202306
+03,08,03,Outras consequências de causas externas,202306
+03,09,03,Terapias do aparelho geniturinário,202306
+04,03,03,Tumores do sistema nervoso,202306
+04,04,03,Anomalia Crânio e bucomaxilo facial,202306
+04,05,03,"Corpo vítreo, retina, coróide e esclera",202306
+04,06,03,Cardiologia intervencionista,202306
+04,07,03,"Pancreas, baco, figado e vias biliares",202306
+04,08,03,Coluna vertebral e caixa torácica,202306
+04,09,03,Próstata e vesicula seminal,202306
+04,12,03,Pleura,202306
+04,13,03,Reparadora para lipodistrofia,202306
+04,15,03,Politraumatizados,202306
+04,16,03,Cabeça e pescoço,202306
+05,01,03,Coleta e exames para ident. de doador de célula-tronco hematopoéticas (busca internacional/nacional),202306
+05,03,03,Manutenção e retirada de orgãos e tecidos para transplante,202306
+05,04,03,Processamento de válvula/tubo valvado cardíaco humano,202306
+06,01,03,Antianêmicos não hormonais,202306
+06,03,03,Imunoterápicos,202306
+06,04,03,Agonistas da Dopamina/inibidor da prolactina,202306
+07,01,03,OPM em Otorrinolaringologia.,202306
+01,02,03,Vigilância epidemiológica - vacinas,202306
+01,01,04,Alimentação e nutrição,202306
+02,02,04,Exames coprológicos,202306
+02,04,04,Exames radiológicos da cintura escapular e dos membros superiores,202306
+02,08,04,Aparelho geniturinário,202306
+02,09,04,Aparelho respiratório,202306
+02,11,04,Diagnóstico em ginecologia-obstetrícia,202306
+03,01,04,Outros atendimentos realizados por profissionais de níveis superior,202306
+03,02,04,Assistência fisioterapêutica cardiovasculares e pneumo-funcionais,202306
+03,03,04,Tratamento de doenças do sistema nervoso central e periférico,202306
+03,04,04,Quimioterapia prévia (neoadjuvante/citorredutora)- adulto,202306
+03,07,04,Moldagem/Manutenção,202306
+03,08,04,Complicações consequentes a procedimentos em saúde,202306
+03,09,04,Terapias do aparelho cardiovascular,202306
+04,03,04,Neurocirurgias vasculares,202306
+04,05,04,Cavidade orbitária e globo ocular,202306
+04,06,04,Cirurgia endovascular,202306
+04,07,04,Parede e cavidade abdominal,202306
+04,08,04,Cintura pélvica,202306
+04,09,04,"Bolsa escrotal, testículos e cordão espermático",202306
+04,12,04,Parede torácica,202306
+04,13,04,Outras cirurgias plásticas/reparadoras,202306
+04,15,04,Procedimentos cirúrgicos gerais,202306
+04,16,04,Esôfago-gastro duodenal e vísceras anexas e outros orgãos intra-abdominais,202306
+05,01,04,Exames imunogenéticos/histocompatibilidade para identificação de doador de orgãos,202306
+05,03,04,"Açõess complementares destinadas a doação de orgãos, tecidos e células.",202306
+05,04,04,Processamento de pele humana,202306
+06,01,04,Antianêmicos hormonais,202306
+06,03,04,Reguladores de atividade hormonal - inibidores da prolactina,202306
+06,04,04,Agonistas seletivos dos receptores beta 2 adrenérgicos,202306
+07,01,04,OPM oftalmológicas,202306
+07,02,04,OPM em assistência cardiovascular,202306
+06,03,05,Antitrombóticos,202306
+06,01,05,Antiasmáticos,202306
+07,01,05,OPM em gastroenterologia,202306
+07,02,05,OPM comuns,202306
+01,01,05,Praticas integrativas/complementares,202306
+02,02,05,Exames de uroanálise,202306
+02,04,05,Exames radiológicos do abdomen e pelve,202306
+02,08,05,Aparelho esquelético,202306
+02,11,05,Diagnóstico em neurologia,202306
+03,01,05,Atenção domiciliar,202306
+03,02,05,Assistência fisioterapêutica nas disfunções musculo esqueleticas (todas as origens),202306
+03,03,05,Tratamento de doenças do aparelho da visão,202306
+03,04,05,Quimioterapia adjuvante (profilática) - adulto,202306
+03,09,05,Práticas integrativas e complementares,202306
+04,03,05,Tratamento neurocirúrgico da dor funcional,202306
+04,05,05,"Conjuntiva, córnea, câmara anterior, íris, corpo ciliar e cristalino",202306
+04,06,05,Eletrofisiologia,202306
+04,08,05,Membros inferiores,202306
+04,09,05,Pênis,202306
+04,12,05,Pulmão,202306
+04,16,05,Colo-proctologia,202306
+05,01,05,Exames imunogenéticos/histocompatibilidade para identificação de receptor de orgãos,202306
+06,04,05,Alcalóides naturais do ópio,202306
+06,03,06,Tensiolítico alveolar,202306
+06,01,06,Antibióticos,202306
+07,01,06,OPM em urologia,202306
+07,02,06,OPM em urologia,202306
+02,02,06,Exames hormonais,202306
+02,04,06,Exames radiológicos da cintura pélvica e dos membros inferiores,202306
+02,08,06,Aparelho nervoso,202306
+02,11,06,Diagnóstico em oftalmologia,202306
+03,01,06,Consulta/Atendimento ás urgências (em geral),202306
+03,02,06,Assistência fisioterapêutica nas alterações em neurologia,202306
+03,03,06,Tratamento de doenças cardiovasculares,202306
+03,04,06,Quimioterapia curativa - adulto,202306
+03,09,06,Acessos venosos,202306
+04,03,06,Investigação e cirurgia da epilepsia,202306
+04,08,06,Gerais,202306
+04,09,06,Útero e anexos,202306
+04,16,06,Ginecologia,202306
+05,01,06,Exames gráficos ou por imagem para diagnóstico de morte encefálica,202306
+06,04,06,Alimentos dietéticos isentos de fenilalanina,202306
+06,03,07,Hemoderivados,202306
+06,01,07,Antiepiléticos,202306
+07,01,07,OPM em odontologia,202306
+07,02,07,OPM em cirurgias oftálmicas,202306
+02,02,07,Exames toxicológicos ou de monitorização terapêutica,202306
+02,08,07,Aparelho respiratório,202306
+02,11,07,Diagnóstico em otorrinolaringologia/fonoaudiologia,202306
+03,01,07,"Atendimento/acompanhamento em reabilitação física, mental, visual e múltiplas deficiências",202306
+03,02,07,Assistência fisioterapêutica em queimados,202306
+03,03,07,Tratamento de doenças do aparelho digestivo,202306
+03,04,07,Quimioterapia de tumores de crianca e adolescente,202306
+03,09,07,Angiologia,202306
+04,03,07,Tratamento neuro-endovascular,202306
+04,09,07,"Vagina, vulva e períneo",202306
+04,16,07,Oftalmologia,202306
+05,01,07,"Outros exames complementares para doação de orgãos, tecidos e células",202306
+06,04,07,Aminas Terciárias,202306
+06,03,08,Medicamentos para transplante,202306
+06,04,08,Aminoquinolinas,202306
+07,01,08,OPM de anomalias buco-maxilo-facial,202306
+07,02,08,OPM em cirurgia plástica/reparadora,202306
+02,02,08,Exames microbiológicos,202306
+02,08,08,Aparelho hematológico,202306
+06,01,08,Antiinflamatórios,202306
+03,01,08,Atendimento/Acompanhamento psicossocial,202306
+03,03,08,Tratamento de doenças da pele e do tecido  subcutâneo,202306
+03,04,08,Quimioterapia - procedimentos especiais,202306
+04,03,08,Neurocirurgia funcional estereotáxica,202306
+04,16,08,Pele e cirurgia plástica,202306
+05,01,08,Exames complementares para pacientes transplantados,202306
+02,11,08,Diagnóstico em pneumologia,202306
+06,01,09,Antiinflamatórios intestinais,202306
+06,04,09,Análogos da mostarda nitrogenada,202306
+07,01,09,Substituição/Troca em órteses/próteses,202306
+07,02,09,OPM em cirurgia de otorrinolaringologia,202306
+02,02,09,Exames em outros líquidos biológicos,202306
+02,08,09,Outros métodos de diagnóstico em medicina nuclear in vivo,202306
+02,11,09,Diagnóstico em urologia,202306
+03,01,09,Atendimento/Acompanhamento em saúde do idoso,202306
+03,03,09,Tratamento de doenças do sistema osteomuscular e do tecido conjuntivo,202306
+03,04,09,Medicina nuclear - terapêutica oncológica,202306
+04,16,09,Ossos e partes moles,202306
+07,01,10,OPM em queimados,202306
+03,03,10,"Tratamento durante a gestação, parto e puerpério",202306
+03,04,10,Gerais em oncologia,202306
+02,11,10,Diagnóstico em psicologia-psiquiatria,202306
+04,16,10,Neurocirurgia,202306
+06,04,10,Vasopressina e Análogos,202306
+03,01,10,Atendimentos de enfermagem (em geral),202306
+07,02,10,OPM em nefrologia,202306
+06,01,10,Antiparkinsonianos,202306
+02,02,10,Exames de genética,202306
+03,03,11,"Tratamento de malformações congênitas, deformidades e anomalias cromossômicas",202306
+03,01,11,Atendimento/Acompanhamento queimados,202306
+02,11,11,Diagnóstico em cardiologia intervencionista,202306
+02,02,11,Exames para triagem neonatal,202306
+07,02,11,OPM em queimados,202306
+06,04,11,Análogos do hormônio liberador de gonadotrofina,202306
+06,01,11,Antipsicóticos,202306
+04,16,11,Cirurgia torácica,202306
+02,02,12,Exames imunohematológicos,202306
+03,01,12,Atendimento/acompanhamento de diagnóstico de doenças endocrinas/metabolicas e nutricionais,202306
+02,11,12,Diagnóstico em traumato-ortopedia,202306
+03,03,12,Tratamentos por medicina nuclear in vivo,202306
+06,04,12,Antiandrogênios,202306
+06,01,12,Antivirais,202306
+04,16,12,Mastologia,202306
+07,02,12,OPM para transplantes,202306
+04,16,13,Otorrinolaringologia,202306
+03,01,13,Acompanhamento em outras especialidades,202306
+03,03,13,Tratamento de pacientes sob cuidados prolongados,202306
+06,04,13,Anticolinesterases,202306
+06,01,13,Bloqueadores neuromusculares,202306
+06,01,14,Ceratolíticos sistêmicos,202306
+03,01,14,Cuidados Paliativos,202306
+03,03,14,Tratamento de doenças do ouvido/apófise mastóide e vias aéreas,202306
+06,04,14,Antigonadotrofinas e agentes similares,202306
+06,04,15,Barbitúricos e derivados,202306
+06,01,15,Complementos alimentares para fenilcetonúricos,202306
+03,03,15,Tratamento das doenças do aparelho geniturinário,202306
+03,03,16,Tratamento de algumas afecçõess originadas no período neonatal,202306
+06,01,16,Fatores de crescimento mielóides,202306
+06,04,16,Bisfosfonados,202306
+03,03,17,Tratamento dos transtornos mentais e comportamentais,202306
+06,01,17,Hipnoanalgésicos,202306
+06,04,17,Compostos de Alumínio,202306
+06,04,18,Derivados da benzodiazepina,202306
+06,01,18,Hipolipemiantes,202306
+03,03,18,Tratamento HIV/Aids,202306
+06,04,19,Derivados de ácidos graxos,202306
+03,03,19,Reabilitação,202306
+06,01,19,Imunomoduladores,202306
+06,01,20,Imunossupressores,202306
+06,04,20,Derivados do adamantano,202306
+06,01,21,Imunoterapicos,202306
+06,04,21,Derivados do indol,202306
+06,01,22,Inibidores da acetilcolinesterase,202306
+06,04,22,Derivados da succinimida,202306
+06,01,23,Mucolíticos,202306
+06,04,23,"Diazepinas, oxazepinas e tiazepinas",202306
+06,01,24,Quelantes do ferro,202306
+06,04,24,Enzimas,202306
+06,01,25,Outros quelantes,202306
+06,04,25,Fatores de estimulação de colônias,202306
+06,01,26,Reguladores da atividade hormonal-agonistas da vasopressina,202306
+06,04,26,"Ferro trivalente, preparações parenterais",202306
+06,01,27,Reguladores da atividade hormonal-analogos do GNRH,202306
+06,04,27,"Fibratos, Acido Nicotínico e seus derivados",202306
+06,01,28,Reguladores da atividade hormonal-antiandrogênicos,202306
+06,04,28,Glicocorticóides,202306
+06,04,29,Somatostatina e Análogos,202306
+06,01,29,Reguladores da atividade hormonal-inibidores das gonadotrofinas,202306
+06,01,30,Reguladores da atividade hormonal-inibidores do hormônio do crescimento,202306
+06,04,30,Imunoglobulinas específicas,202306
+06,01,31,Reguladores da atividade hormonal-inibidores de prolactina,202306
+06,04,31,"Imunoglobulinas, humana normal",202306
+06,01,32,Reguladores da atividade hormonal-hormonios de crescimento,202306
+06,04,32,Imunossupressores seletivos,202306
+06,04,33,"Inibidores da agregação plaquetária, excl. heparina",202306
+06,01,33,Reguladores da atividade hormonal-hormonios tireoidianos,202306
+06,01,34,Reguladores da atividade hormonal-mineralocorticóides,202306
+06,04,34,Inibidores da calcineurina,202306
+06,01,35,Reguladores da homeostase do cálcio,202306
+06,04,35,Inibidores da fosfodiesterase,202306
+06,01,36,Repositores enzimáticos,202306
+06,04,36,Inibidores da HMG-CoA redutase,202306
+06,04,37,Inibidores da monoamino oxidase tipo b,202306
+06,04,38,Inibidores do fator de necrose tumoral alfa (TNF-a),202306
+06,04,39,Interferonas,202306
+06,04,40,Medicamentos para tratamento da hipercalemia e hiperfosfatemia,202306
+06,04,41,Medicamentos utilizados na dependência de opióides,202306
+06,04,42,Mineralocorticóides,202306
+06,04,43,Modulador seletivo de receptor de estrogênio,202306
+06,04,44,Mucolíticos,202306
+06,04,45,Nucleosídeo e nucleotídeo (excl. inibidores da transcriptase reversa),202306
+06,04,46,"Nucleosídeo e nucleotídeo, Inibidor da transcriptase reversa",202306
+06,04,47,Outras preparações antianêmicas,202306
+06,04,48,Outros agentes citotóxicos,202306
+06,04,49,Outros agentes dopaminérgicos,202306
+06,04,50,Outros antiepilépticos,202306
+06,04,51,Outros antipsicóticos,202306
+06,04,52,Outros imunoestimulantes,202306
+06,04,53,Outros imunossupressores,202306
+06,04,54,Outros medicamentos do sistema nervoso,202306
+06,04,55,Outros relaxantes musculares de ação periférica,202306
+06,04,56,Penicilamina e agentes similares,202306
+06,04,57,Preparações de calcitonina,202306
+06,04,58,Preparações de enzimas,202306
+06,04,59,Retinóides para tratamento da acne,202306
+06,04,60,Retinóides para tratamento da psoríase,202306
+06,04,61,Somatropina e agonistas da somatropina,202306
+06,04,62,"Vitamina D e análogos, incluido combinação dos dois",202306
+06,04,63,Produtos diversos para o trato alimentar ou metabolismo,202306
+06,04,64,Inibidores de Protease,202306
+06,04,65,Análogos das Prostaglandinas,202306
+06,04,66,Inibidores da Anidrase Carbonica,202306
+06,04,67,Simpatomiméticos na Terapia de Glaucoma,202306
+06,04,68,Anticorpos Monoclonais,202306
+06,04,69,Inibidores de Interleucinas,202306
+06,04,70,Outros Antipsoriaticos de Uso Tópico,202306
+06,04,71,Corticoesteróides de Potência Muito Alta (Grupo IV),202306
+06,04,72,Derivados do Ácido Propriônico,202306
+06,04,73,Parassimpaticomiméticos,202306
+06,04,74,Agentes Beta Bloqueadores,202306
+06,04,75,Outros Anti-hipertensivos,202306
+06,04,76,Outros Antivirais,202306
+06,04,77,Outros Agentes Antiparatireoide,202306
+06,04,78,Insulinas Análogas de Ação Rápida de Uso Injetável,202306
+06,04,79,Outras Drogas para Desordem do Sistema Músculo Esquelético,202306
+06,04,80,Agentes antitrombóticos,202306
+06,04,81,Outros Aminoglicosídeos,202306
+06,04,82,Inibidores do co-transportador 2 de sódio-glicose (SGLT2),202306
+06,04,83,Agentes que atuam no sistema renina- angiotensina,202306
+06,04,84,Outras drogas sistêmicas para doenças respiratórias obstrutivas,202306
+06,04,85,"Adrenérgicos em combinação com anticolinérgicos, incluídas combinações triplas com corticosteroides",202306
+06,04,86,Outros Produtos para o Sistema Respiratório.,202306
+06,04,87,Outros medicamentos afetando a estrutura e a mineralização óssea,202306
